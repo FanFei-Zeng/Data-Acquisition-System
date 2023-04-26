@@ -77,5 +77,27 @@ The red boxs represent the ***Termination*** switches, and they must be turn on 
  
  - Fig.8 The control mode.
  
+ ### 5. Run
+ 
+ If all the settings have been done. Switch to Superuser. 
+ 
+ > su -
+ 
+ Then, change the directory to the source directory and find the executable file **N1470** and run the project
+ 
+ > ./N1470
+ 
+ there will print a port number
+ 
+ > **** localhost:8300 ****
+
+Open the browser, and typing 
+
+>localhost:8300
+
+in the address bar and press ***Enter***, the program will run and one can change the settings of all modules remotely. As for remote control in the other PC, just change the *localhost:8300* to *IP:8300*, e.g. *192.168.0.101:8300*.
+
+**Note: One can also use the software named [GECO2020](https://www.caen.it/download/?filter=GECO2020) developed by CAEN. To install and run the software, one can read the [manual](https://www.caen.it/download/?filter=GECO2020).**
+
  ## **All figures are copied from the CAEN N1470 User Manual.**
   
