@@ -6,4 +6,4 @@ The DAta Acquisition (DAQ) system includes detectors, data acquisition module an
 
 ### Module
 
-- [N1470](./HV_N1470/README.md)
+- [N1470](./HV_N1470/)
