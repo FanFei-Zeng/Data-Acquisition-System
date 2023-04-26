@@ -26,9 +26,9 @@ As is shown in Fig.1, three-pin cable for **RS232** connector is needed, where *
 In the Fig.3, the yellow boxs represent the ***Adaptation*** switches, and they must be pushed to the ***right hand*** for **RS232** communication and ***left hand*** for **RS485** communication. 
 The red boxs represent the ***Termination*** switches, and they must be turn on for the last module for daisy chain purpose. This switch state can be checked in the module setting screen as is shown in Fig.4.
 
- <img src="./FIG/termstate.png" width="90%" height="90%">
+ <img src="./FIG/termstate.jpg" width="90%" height="90%">
  
- **For more details, please check the [N1470 user manual](./manual/N1470.pdf)  
+ **For more details, please check the [N1470 user manual](./manual/N1470.pdf)**
  ### 4. Settings on PC
  
  waiting for update...
