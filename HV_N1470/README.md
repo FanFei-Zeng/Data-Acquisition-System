@@ -77,5 +77,5 @@ The red boxs represent the ***Termination*** switches, and they must be turn on 
  
  - Fig.8 The control mode.
  
- # ** All figures are copied from the CAEN N1470 User Manual. **
+ ## **All figures are copied from the CAEN N1470 User Manual.**
   
