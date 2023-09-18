@@ -1,2 +1,2 @@
 
-# **Copyright by Jianguo Wang**
+# **Copyright by \link{wangjianguo@impcas.ac.cn}{Jianguo Wang}**
