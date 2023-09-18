@@ -97,7 +97,7 @@ Open the browser, and typing
 
 in the address bar and press ***Enter***, the program will run and one can change the settings of all modules remotely. As for remote control in the other PC, just change the *localhost:8300* to *IP:8300*, e.g. *192.168.0.101:8300*.
 
-***Note: One can also use the software named [GECO2020](https://www.caen.it/download/?filter=GECO2020) developed by CAEN. To install and run the software, one can read the [manual](https://www.caen.it/download/?filter=GECO2020).***
+***Note: One can also use the software named [GECO2020](https://www.caen.it/download/?filter=GECO2020) developed by CAEN. To install and run the software, please read the [manual](https://www.caen.it/download/?filter=GECO2020).***
 
  ## **All figures are copied from the CAEN N1470 User Manual.**
   
